@@ -2,7 +2,7 @@
 
 This is a simple Spring Boot project that demonstrates basic **CRUD operations** (Create, Read, Update, Delete) using a RESTful API. It uses an **in-memory H2 database** for quick setup and testing.
 
-## 📦 Features
+##  Features
 
 - `GET /products` – Retrieve all products  
 - `GET /products/{id}` – Retrieve a specific product by ID  
@@ -10,14 +10,14 @@ This is a simple Spring Boot project that demonstrates basic **CRUD operations**
 - `PUT /products/{id}` – Update an existing product  
 - `DELETE /products/{id}` – Delete a product  
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Java  
 - Spring Boot  
 - Spring Data JPA  
 - H2 Database (in-memory)  
 
-## ▶️ Running the Project
+## ▶ Running the Project
 
 1. Open the project in your IDE (IntelliJ, Eclipse, etc.)  
 2. Run `ProductApiApplication.java`  
@@ -29,7 +29,7 @@ This is a simple Spring Boot project that demonstrates basic **CRUD operations**
    - Username: `sa`  
    - Password: *(leave blank)*  
 
-## ✅ Example JSON for POST / PUT
+##  Example JSON for POST / PUT
 
 ```json
 {
